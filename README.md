@@ -1,5 +1,4 @@
-- Dominic, 2nd year computing student at Imperial College London
-- Java, C, Python, Haskell, Webdev, Databases, etc.
+- Java, C, Python, Haskell, Webdev, Databases, ML, Deplyoment etc.
 - Open to Project collaborations
 
 <!---
