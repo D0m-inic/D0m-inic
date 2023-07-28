@@ -1,4 +1,4 @@
-- Java, C, Python, Haskell, Webdev, Databases, ML, Deplyoment etc.
+- Java, C, Python, Haskell, Webdev, Databases, ML, Deployment etc.
 - Open to Project collaborations
 
 <!---
