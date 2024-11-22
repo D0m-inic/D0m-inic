@@ -1,5 +1,4 @@
 - Java, C, Python, Haskell, Webdev, Databases, ML, Deployment etc.
-- Open to Project collaborations
 
 <!---
 D0m-inic/D0m-inic is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
